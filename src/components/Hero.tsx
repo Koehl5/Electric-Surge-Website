@@ -43,7 +43,7 @@ const Hero = () => {
                             letterSpacing: '-0.02em'
                         }}
                     >
-                        ELECTRIC <span className="orange-text">SURGE</span>
+                        TRAIN WITH <span className="orange-text">INTENTION</span>. COMPETE WITH <span className="orange-text">CONFIDENCE</span>.
                     </motion.h1>
 
                     <motion.p
@@ -62,7 +62,7 @@ const Hero = () => {
                             textShadow: '0 2px 10px rgba(0,0,0,0.5)'
                         }}
                     >
-                        Elite Field Hockey training built on speed, technical mastery, and high-performance success.
+                        Elite field hockey training focused on technical mastery, game IQ, and long-term athlete development—not shortcuts.
                     </motion.p>
 
                     <motion.div
