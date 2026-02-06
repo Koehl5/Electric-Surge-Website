@@ -35,7 +35,7 @@ const Hero = () => {
                         animate={{ opacity: 1, scale: 1 }}
                         transition={{ delay: 0.2, duration: 1 }}
                         style={{
-                            fontSize: 'clamp(3rem, 10vw, 8rem)',
+                            fontSize: 'clamp(2.5rem, 8vw, 5.5rem)',
                             lineHeight: 1,
                             marginBottom: '10rem',
                             textTransform: 'uppercase',
