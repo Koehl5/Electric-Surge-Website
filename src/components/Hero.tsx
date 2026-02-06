@@ -28,7 +28,7 @@ const Hero = () => {
                     initial={{ opacity: 0, y: 40 }}
                     animate={{ opacity: 1, y: 0 }}
                     transition={{ duration: 1.2, ease: [0.16, 1, 0.3, 1] }}
-                    style={{ maxWidth: '1100px', margin: '-5rem auto 0 auto' }}
+                    style={{ maxWidth: '1100px', margin: '-12rem auto 0 auto' }}
                 >
                     <motion.h1
                         initial={{ opacity: 0, scale: 0.95 }}
