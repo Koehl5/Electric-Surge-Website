@@ -38,7 +38,7 @@ const Hero = () => {
                             fontSize: 'clamp(2.5rem, 8vw, 5.5rem)',
                             lineHeight: 1,
                             marginTop: '-10rem',
-                            marginBottom: '14rem',
+                            marginBottom: '20rem',
                             textTransform: 'uppercase',
                             fontWeight: 900,
                             letterSpacing: '-0.02em'
