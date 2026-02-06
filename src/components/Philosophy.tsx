@@ -29,7 +29,7 @@ const Philosophy = () => {
                         letterSpacing: '-0.01em'
                     }}
                 >
-                    "Excellence is our <span className="orange-text">foundation</span>, and development is our <span className="orange-text">pulse</span>. At Electric Surge, we empower athletes through technical mastery and a commitment to <span className="orange-text">high-performance success</span>."
+                    "Elite field hockey training focused on technical mastery, game IQ, and long-term athlete development—not shortcuts."
                 </motion.p>
             </motion.div>
 
